@@ -35,12 +35,12 @@ params:
   DateFormat: 2006年01月02日 15:04
   defaultTheme: auto
   disableThemeToggle: false
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false

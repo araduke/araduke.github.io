@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>漬けなくてもおいしい</title>
-    <link>https://www.araduke.net/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 漬けなくてもおいしい</description>
     <image>
       <title>漬けなくてもおいしい</title>
-      <url>https://www.araduke.net/maguro.png</url>
-      <link>https://www.araduke.net/maguro.png</link>
+      <url>http://localhost:1313/maguro.png</url>
+      <link>http://localhost:1313/maguro.png</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 25 Dec 2025 23:54:53 +0900</lastBuildDate>
-    <atom:link href="https://www.araduke.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NSや周辺サービスをDockerで構築するときの備忘録</title>
-      <link>https://www.araduke.net/posts/251217/</link>
+      <link>http://localhost:1313/posts/251217/</link>
       <pubDate>Thu, 25 Dec 2025 23:54:53 +0900</pubDate>
-      <guid>https://www.araduke.net/posts/251217/</guid>
+      <guid>http://localhost:1313/posts/251217/</guid>
       <description>あるいはどんなネット環境の人でもNSを立てることができる最強のフローチャート</description>
     </item>
     <item>
       <title>プロフィール</title>
-      <link>https://www.araduke.net/profile/</link>
+      <link>http://localhost:1313/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.araduke.net/profile/</guid>
+      <guid>http://localhost:1313/profile/</guid>
       <description>&lt;h2 id=&#34;お前は誰だ&#34;&gt;お前は誰だ！&lt;/h2&gt;
 &lt;p&gt;ヅケまぐろと言います。好きに呼んでいただいて構いません。&lt;/p&gt;
 &lt;p&gt;外部サイトへのリンクはトップページにまとめてあります。&lt;/p&gt;
