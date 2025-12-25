@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>漬けなくてもおいしい</title>
+    <link>https://www.araduke.net/</link>
+    <description>Recent content on 漬けなくてもおいしい</description>
+    <image>
+      <title>漬けなくてもおいしい</title>
+      <url>https://www.araduke.net/maguro.png</url>
+      <link>https://www.araduke.net/maguro.png</link>
+    </image>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 25 Dec 2025 23:54:53 +0900</lastBuildDate>
+    <atom:link href="https://www.araduke.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NSや周辺サービスをDockerで構築するときの備忘録</title>
+      <link>https://www.araduke.net/posts/251217/</link>
+      <pubDate>Thu, 25 Dec 2025 23:54:53 +0900</pubDate>
+      <guid>https://www.araduke.net/posts/251217/</guid>
+      <description>あるいはどんなネット環境の人でもNSを立てることができる最強のフローチャート</description>
+    </item>
+    <item>
+      <title>プロフィール</title>
+      <link>https://www.araduke.net/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.araduke.net/profile/</guid>
+      <description>&lt;h2 id=&#34;お前は誰だ&#34;&gt;お前は誰だ！&lt;/h2&gt;
+&lt;p&gt;ヅケまぐろと言います。好きに呼んでいただいて構いません。&lt;/p&gt;
+&lt;p&gt;外部サイトへのリンクはトップページにまとめてあります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;おまけ&#34;&gt;おまけ&lt;/h2&gt;
+&lt;p&gt;※以下は23年頭まで存在した弊ツイ垢のツイフィールのアーカイブです。そのため言い回しが調子乗ってます。アーカイブとは名ばかりに普通に更新してます。&lt;/p&gt;
+&lt;p&gt;大4、動画をつくる6次創作者です。&lt;/p&gt;
+&lt;h3 id=&#34;学業のお話&#34;&gt;学業のお話&lt;/h3&gt;
+&lt;p&gt;埼玉県北の自称進学校から某公立大学への進学を決めました。
+個人的に高校と違ってめちゃくちゃ気楽に過ごせてすごい幸せです。人生の夏休みという言葉の重さを実感しています。
+目指せ国家総合職(無理)。&lt;/p&gt;
+&lt;h4 id=&#34;吹奏楽&#34;&gt;【吹奏楽】&lt;/h4&gt;
+&lt;p&gt;今年でクラリネット歴は怒涛の10年目に突入しました。&lt;/p&gt;
+&lt;p&gt;中学、高校と吹奏楽部でクラリネット及びバスクラリネットを吹いてました。
+大学でも年に一度焼きそば部と化す吹奏楽部に入り、再びクラリネットとバスクラリネットの反復横跳びをしています。&lt;/p&gt;
+&lt;p&gt;また2019年12月より地元吹奏楽団でクラリネット吹かせて貰ってます。23年よりバスクラリネット吹いてます。&lt;/p&gt;
+&lt;p&gt;所有楽器
+B♭Cl：Cramponの某機種&lt;/p&gt;
+&lt;h4 id=&#34;放送研&#34;&gt;【放送研】&lt;/h4&gt;
+&lt;p&gt;放送経験ないのに迎え入れてくれた同期先輩方に感謝。
+イベントの司会とか自己満動画制作とかしてます。&lt;/p&gt;
+&lt;h4 id=&#34;都市研&#34;&gt;【都市研】&lt;/h4&gt;
+&lt;p&gt;吹奏楽部や放送研とは違いかなり少人数サークルですが楽しくやってます。オタク〜〜って感じです
+縁あって東京・南大沢の某大学のサークルと合同フィールドワークを行わさせていただいております。&lt;/p&gt;
+&lt;h4 id=&#34;学生委員会&#34;&gt;【学生委員会】&lt;/h4&gt;
+&lt;p&gt;正式名称だと大学特定されるので伏せときます。生協の学生委員会ではないほうです(ここで特定される)。
+学会の予算で好き勝手やってるところです。みんなで作った情報誌がわりといろんなところで役立ってビビる。これがガクチカか……&lt;/p&gt;
+&lt;h4 id=&#34;新聞部的なの&#34;&gt;【新聞部的なの】&lt;/h4&gt;
+&lt;p&gt;正式名称だと確実に個人まで特定されそうなので大学事務局の人が言ってたフレーズをお借りして伏せときます。まあでも実際新聞部みたいなことをやってるところです。&lt;/p&gt;
+&lt;h3 id=&#34;つくっているもの&#34;&gt;つくっているもの&lt;/h3&gt;
+&lt;h4 id=&#34;一次創作&#34;&gt;【一次創作】&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;動画制作(一次)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;放送研がらみでオリジナルの動画を作る機会が増えてきました。ゆくゆくは投げられたボカロにシャレオツな動画をつけるような人になりたい。&lt;/p&gt;
+&lt;h4 id=&#34;二次創作&#34;&gt;【二次創作】&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;動画制作(ソフトウェアトーク実況)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一応実況動画の投稿を細々と行っています。
+処女作を探すとなるとなんと小6まで遡りますが、その頃の大半の動画はネットにもこちらのストレージにも現存していません。&lt;/p&gt;
+&lt;p&gt;実況するゲームはシュミレーションが中心です。まちづくりゲーが性癖。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nicovideo.jp/mylist/78542369&#34;&gt;最近の投稿動画はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;三次創作&#34;&gt;【三次創作】&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;動画制作(途中下車 / バステイ)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他作者様の二次創作作品をリスペクト(パクリ)して作っているため実質三次創作なのではないでしょうか。
+こいつ俺の作品パクってんな～～って思った方には申し訳ないです&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nicovideo.jp/mylist/64015695&#34;&gt;作品はこちらから&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用機材&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;カメラ：Canon IXY650&lt;/li&gt;
+&lt;li&gt;レコーダー：Olympus V-842&lt;/li&gt;
+&lt;li&gt;ピンマイク：Sony ECM-719&lt;/li&gt;
+&lt;li&gt;スマホ：AQUOS R2
+&lt;ul&gt;
+&lt;li&gt;(録音補助：100均のつっかえ棒くん)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1次創作×2次創作×3次創作ということで6次創作！てことでした。第6次産業かお前&lt;/p&gt;
+&lt;h3 id=&#34;minecraft&#34;&gt;Minecraft&lt;/h3&gt;
+&lt;p&gt;触りだしたのが1.8が出た頃、心のふるさとは1.10.2と1.13.2、Modの対応バージョン的に1.12.2への永住を決意した、新参でも古参でもない微妙クラフターしてます。
+かつては1.7.10でAMT2その他和風系を入れて遊んでいましたが、最近はHaCと工業系にお熱。&lt;/p&gt;
+&lt;h3 id=&#34;wugワールドうごメモギャラリー&#34;&gt;WUG(ワールドうごメモギャラリー)&lt;/h3&gt;
+&lt;p&gt;過去に葬りたい黒歴史です。
+そんな黒歴史のおかげで今の自分があるみたいなもんなんですけどね((
+リレー内での言動等迷惑を掛けてしまい本当にすみませんでした&amp;hellip;って謝っても、もうこのサービスは終了してしまってるんですよね。&lt;/p&gt;
+&lt;h3 id=&#34;所持パソコン&#34;&gt;所持パソコン&lt;/h3&gt;
+&lt;p&gt;性能よりも価格重視派なので基本的に中古しか買いません。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MousePro-T398XG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IntelCore i7-7700 / RAM32GB / nVIDIA GeForce GTX 1060 / SSD / HDD（これで5万）
+長年の夢だったダブルモニタを実現し自室の華になっています。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
