@@ -1,0 +1,132 @@
+baseURL: https://www.araduke.net
+languageCode: ja
+title: 漬けなくてもおいしい
+theme: ["PaperMod"]
+defaultContentLanguage: ja
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+
+enableInlineShortcodes: true
+enableEmoji: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+params:
+  env: production
+  title: 漬けなくてもおいしい
+  description: 塩分摂取量に気を付けながら醤油を浸み込ませましょう。
+  keywords:
+    - Blog
+    - Portfolio
+    - PaperMod
+  author: ヅケまぐろ
+  images:
+    - "maguro.png"
+  DateFormat: 2006年01月02日 15:04
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  assets:
+    favicon: sushi64x64.png
+    favicon16x16: sushi16x16.png
+    favicon32x32: sushi32x32.png
+    apple_touch_icon: maguro.png
+    safari_pinned_tab: maguro.png
+  label:
+    text: Home
+    icon: sushi64x64.png
+    iconHeight: 35
+  profileMode:
+    enabled: false
+    title: ExampleSite
+    subtitle: This is subtitle
+    imageUrl: <img location>
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: 投稿
+        url: posts
+      - name: タグ
+        url: tags
+  homeInfoParams:
+    Title: 漬けなくてもおいしい
+    Content: |
+        塩分摂取量に気を付けながら醤油を浸み込ませましょう。
+
+        下車をつくる / 小説を書く
+  socialIcons:
+    - name: niconico
+      url: https://www.nicovideo.jp/user/51256829
+    - name: pixiv
+      url: https://www.pixiv.net/users/17629830
+    - name: voskey
+      url: https://voskey.icalo.net/@hamachi
+    - name : soundcloud
+      url: https://soundcloud.com/araduke
+  #analytics:
+  #  google:
+  #    SiteVerificationTag: XYZabc
+  #  bing:
+  #    SiteVerificationTag: XYZabc
+  #  yandex:
+  #    SiteVerificationTag: XYZabc
+  cover:
+    hidden: false
+    hiddenInList: true
+    hiddenInSingle: false
+  #editPost:
+  #  URL: https://github.com/<path_to_repo>/content
+  #  Text: Suggest Changes
+  #  appendFilePath: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+menu:
+  main:
+    - name: Profile
+      url: profile
+      weight: 4
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Tags
+      url: tags/
+      weight: 10
+markup:
+  highlight:
+    noClasses: false
