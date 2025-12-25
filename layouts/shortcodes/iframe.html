@@ -1,0 +1,17 @@
+{{- $url := .Get "src" | default (.Get 0) -}}
+{{- $width := .Get "width" | default "100%" -}}
+{{- $height := .Get "height" | default "450px" -}}
+{{- $title := .Get "title" | default "External Content" -}}
+
+<div class="iframe-wrapper" style="margin: 1rem 0; text-align: center;">
+    <iframe 
+        src="{{ $url }}" 
+        width="{{ $width }}" 
+        height="{{ $height }}" 
+        title="{{ $title }}"
+        style="border: 0; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" 
+        allowfullscreen 
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
