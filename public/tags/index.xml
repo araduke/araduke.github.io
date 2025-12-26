@@ -21,17 +21,17 @@
       <description></description>
     </item>
     <item>
-      <title>IPoE</title>
-      <link>http://localhost:1313/tags/ipoe/</link>
-      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
-      <guid>http://localhost:1313/tags/ipoe/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>NetSimutrans</title>
       <link>http://localhost:1313/tags/netsimutrans/</link>
       <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
       <guid>http://localhost:1313/tags/netsimutrans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OTRP</title>
+      <link>http://localhost:1313/tags/otrp/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>http://localhost:1313/tags/otrp/</guid>
       <description></description>
     </item>
     <item>
@@ -46,6 +46,13 @@
       <link>http://localhost:1313/tags/%E6%8A%80%E8%A1%93/</link>
       <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
       <guid>http://localhost:1313/tags/%E6%8A%80%E8%A1%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPoE</title>
+      <link>http://localhost:1313/tags/ipoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ipoe/</guid>
       <description></description>
     </item>
     <item>
