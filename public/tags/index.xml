@@ -11,12 +11,40 @@
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Dec 2025 23:54:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 01:31:53 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPoE</title>
+      <link>http://localhost:1313/tags/ipoe/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>http://localhost:1313/tags/ipoe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NetSimutrans</title>
+      <link>http://localhost:1313/tags/netsimutrans/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>http://localhost:1313/tags/netsimutrans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simutrans</title>
+      <link>http://localhost:1313/tags/simutrans/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>http://localhost:1313/tags/simutrans/</guid>
+      <description></description>
+    </item>
     <item>
       <title>技術</title>
       <link>http://localhost:1313/tags/%E6%8A%80%E8%A1%93/</link>
-      <pubDate>Thu, 25 Dec 2025 23:54:53 +0900</pubDate>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
       <guid>http://localhost:1313/tags/%E6%8A%80%E8%A1%93/</guid>
       <description></description>
     </item>
