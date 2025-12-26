@@ -14,6 +14,34 @@
     <lastBuildDate>Fri, 26 Dec 2025 01:31:53 +0900</lastBuildDate>
     <atom:link href="https://www.araduke.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Docker</title>
+      <link>https://www.araduke.net/tags/docker/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>https://www.araduke.net/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPoE</title>
+      <link>https://www.araduke.net/tags/ipoe/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>https://www.araduke.net/tags/ipoe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NetSimutrans</title>
+      <link>https://www.araduke.net/tags/netsimutrans/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>https://www.araduke.net/tags/netsimutrans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simutrans</title>
+      <link>https://www.araduke.net/tags/simutrans/</link>
+      <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
+      <guid>https://www.araduke.net/tags/simutrans/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>技術</title>
       <link>https://www.araduke.net/tags/%E6%8A%80%E8%A1%93/</link>
       <pubDate>Fri, 26 Dec 2025 01:31:53 +0900</pubDate>
