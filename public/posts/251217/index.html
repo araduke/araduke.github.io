@@ -198,7 +198,7 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="http://localhost:1313/">ホーム</a>&nbsp;»&nbsp;<a href="http://localhost:1313/posts/">Posts</a></div>
+    
     <h1 class="post-title entry-hint-parent">
       NSや周辺サービスをDockerで構築するときの備忘録
     </h1>
@@ -538,11 +538,19 @@ DISPLAY=:99 ./sim -server 13353 -server_admin_pw 0000 -objects pak.nippon -log 1
 </code></pre>
 <p>このDockerfileのコンテナを立ち上げるときのコマンドは以上のとおり。NoVNCを実行するため6080番も開けていますね。このコマンドを実行するときは、同じディレクトリにstart.shなどのファイル群やSimutrans World Monitorの中身であるsqai_hm_monitorフォルダ、セーブデータとしてsave.sveを据えておく必要があります。</p>
 <p>ここで、セーブデータもアドオンのようにマウントすればやり取りが楽になると思った方もいると思いますが、私の環境だとセーブデータをマウントすると以下の動画のようにNSに誰かが入ると先に入ってた人が切断されてしまいました。</p>
-<video controls preload="metadata" style="width: 100%; height: auto;">
+<video controls preload="metadata" class="rounded-video" style="width: 100%; height: auto;">
   <source src="http://localhost:1313/251217_2.mp4" type="video/mp4">
   お使いのブラウザは動画タグをサポートしていません。
 </video>
 
+<style>
+.rounded-video {
+  width: 100%;           
+   
+  border-radius: 10px;   
+  overflow: hidden;      
+}
+</style>
 <p>ただし、save.shでセーブデータが保存されるフォルダ（/app/autosave）はホストのどこかにマウントしておくべきなので、このコマンドも要修正ものです。</p>
 <p>なお、sqai_hm_monitor/libs/global.nutの各ファイルのパスは本稿の環境では<code>&quot;/app/file_io/cmd.txt&quot;</code>などのように変更しないとAIプレイヤー追加時にエラーとなります。</p>
 <p>Docker Composeを使えばほかのコンテナと併せてデータのやり取りが楽になりそうですが、docker-compose,ymlはitzg/docker-minecraft-serverでちょっと触ったくらいの知識しかないのでまだ勉強中です。また、あるときからNS内のログを取るようにしたところサーバー機のストレージ全体がログファイルで溢れかけたので、ログファイルは最大500MB（100MBで区切って5個まで保持）となるようにしています。</p>

@@ -1,4 +1,13 @@
-<video controls preload="metadata" style="width: 100%; height: auto;">
+<video controls preload="metadata" class="rounded-video" style="width: 100%; height: auto;">
   <source src="{{ .Get "src" | absURL }}" type="video/mp4">
   お使いのブラウザは動画タグをサポートしていません。
 </video>
+
+<style>
+.rounded-video {
+  width: 100%;          /* 横幅を指定 */
+  /*max-width: 600px;     /* 最大幅（任意） */
+  border-radius: 10px;  /* 角の丸みを指定 */
+  overflow: hidden;     /* 角からはみ出る部分を隠す */
+}
+</style>
